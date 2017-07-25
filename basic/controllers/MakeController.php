@@ -10,7 +10,8 @@ use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 
 /**
- * MakeController implements the CRUD actions for Make model .
+ * MakeController implements the CRUD actions for Make model.
+ * Test for github
  */
 class MakeController extends Controller
 {
